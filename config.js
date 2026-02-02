@@ -4,7 +4,7 @@ const GOOGLE_SHEETS_CONFIG = {
     SHEET_ID: '1MnG7c3kCBE3UnVK99XyGlyEv1InPEKuAQOYginCbUDE',
     
     // Public API URL pattern
-    BASE_URL: 'https://docs.google.com/spreadsheets/d/e/{SHEET_ID}/pub?output=csv',
+    BASE_URL: 'https://docs.google.com/spreadsheets/d/1MnG7c3kCBE3UnVK99XyGlyEv1InPEKuAQOYginCbUDE/edit?usp=sharing',
     
     // Sheet names mapping
     SHEETS: {
